@@ -62,7 +62,7 @@ Hello There! <em><b> I'm Bobur Boboyev </b></em>, a "Software engineer". I build
 
 <br/>
 
-![snake animation](https://github.com/Boboyev-Bobur/Boboyev-Bobur/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Bobur-Boboyev/Bobur-Boboyev/blob/output/github-contribution-grid-snake2.svg)
 
 <h2>Visitor Count:</h2>
 
