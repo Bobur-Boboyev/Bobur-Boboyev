@@ -49,6 +49,9 @@ Hello There! <em><b> I'm Bobur Boboyev </b></em>, a "Software engineer". I build
   <img src="https://img.shields.io/badge/fastapi-1E242A?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-1E242A?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-1E242A?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-1E242A?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/celery-1E242A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-1E242A?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-1E242A?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/html-1E242A?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-1E242A?style=for-the-badge&logo=linux&logoColor=white" />
