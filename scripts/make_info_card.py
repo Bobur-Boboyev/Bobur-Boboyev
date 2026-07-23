@@ -52,7 +52,8 @@ ROWS = [
     ("kv", "Language", "Python"),
     ("kv", "Backend", "FastAPI, Django, DRF"),
     ("kv", "Database", "PostgreSQL, Redis"),
-    ("kv", "DevOps", "Docker, Celery, Nginx"),
+    ("kv", "Async", "Celery, WebSockets"),
+    ("kv", "DevOps", "Docker, Nginx"),
 
     ("gap",),
 
