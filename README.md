@@ -23,7 +23,7 @@
 
 <h3><code>bobur@github ~ $ ./links.sh</code></h3>
 
-<p><b>Backend Developer · AI Enthusiast · Open Source Learner</b></p>
+<p><b>Backend Engineer · Clean Code · APIs</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bobur-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://bobur-boboyev.vercel.app)
 
