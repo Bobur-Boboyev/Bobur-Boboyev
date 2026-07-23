@@ -1,78 +1,38 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=I'm+Bobur!;Developer+from+Uzbekistan;Learning+%E2%80%A2+Exploring+%E2%80%A2+Building;Always+on+the+move.)](https://git.io/typing-svg)
+<!-- hero: monochrome ASCII portrait (types in) beside a terminal info panel -->
 
-<p align="center">
-    <img src = "banner.jpg"/>
-</p>
+<h3><code>bobur@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Bobur's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>bobur@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./bobur-ascii.svg" width="370" alt="Bobur — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Bobur — backend experience, tech stack, highlights" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>bobur@github ~ $ ./links.sh</code></h3>
+
+<p><b>Backend Developer · AI Enthusiast · Open Source Learner</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-bobur-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://bobur-boboyev.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bobur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bobur-boboyev)
+
+[![Telegram](https://img.shields.io/badge/Telegram-@bbyvvv_7-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bbyvvv_7)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbyvvv.ai@gmail.com)
 
 <br>
 
-<p align="center">
-  <a href="https://t.me/bbyvvv_7" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-1E242A?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://x.com/Bobur_Boboyev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1E242A?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
----
-
-<img src="gif.gif" width="250" align="left" style="margin-left: 20px;" />
-<br/>
-
-<p>
-Hello There! <em><b> I'm Bobur Boboyev </b></em>, a "Software engineer". I build and code things for fun. This GitHub is just where I put the stuff I am learning, building or messing around with. Now I'm working at some little and fun projects to put in practice my knowledge about Python, Django, FastApi and more.
-</p>
-
-- "Software engineer" who believes great products live at the intersection of clean code and thoughtful design
-- i love building websites and apps where design, functionality and even small details matter.
-- i enjoy making products that are both practical and visually satisfying.
-- always open to learning, picking up new technologies and growing through the work itself
-<!-- - i got a site: None -->
-
-<br/>
-<br/>
-<br/>
-
----
-<h3 align='center'>Some Tools I Have Used and Learned<h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-1E242A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-1E242A?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastapi-1E242A?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-1E242A?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-1E242A?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-1E242A?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/celery-1E242A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-1E242A?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-1E242A?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/html-1E242A?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-1E242A?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-1E242A?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-1E242A?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit learn-1E242A?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-1E242A?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/telegram bot-1E242A?style=for-the-badge&logo=telegram&logoColor=white" />
-  
-</p>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bobur-Boboyev/Bobur-Boboyev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bobur-Boboyev/Bobur-Boboyev/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Bobur-Boboyev/Bobur-Boboyev/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<h2>Visitor Count:</h2>
-
-![Visitor Count](https://count.getloli.com/@Boboyev-Bobur?name=Bobur&theme=3d-num&padding=16&offset=0&align=center&scale=1.3&pixelated=1&darkmode=auto)
-  
 </div>
