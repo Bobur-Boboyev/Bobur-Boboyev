@@ -41,7 +41,7 @@ ROWS = [
     ("host",),
 
     ("kv", "Role", "Backend Engineer"),
-    ("kv", "Focus", "Python Backend & AI"),
+    ("kv", "Focus", "Python Backend"),
     ("kv", "Status", "Open to Work"),
     ("kv", "Location", "Samarkand, Uzbekistan"),
 
@@ -49,7 +49,7 @@ ROWS = [
 
     ("sec", "Stack"),
 
-    ("kv", "Language", "Python, SQL, JavaScript"),
+    ("kv", "Language", "Python"),
     ("kv", "Backend", "FastAPI, Django, DRF"),
     ("kv", "Database", "PostgreSQL, Redis"),
     ("kv", "DevOps", "Docker, Celery, Nginx"),
@@ -58,8 +58,8 @@ ROWS = [
 
     ("sec", "Highlights"),
 
-    ("bul", "Built production-style backend projects"),
-    ("bul", "Learning System Design & AI"),
+    ("bul", "Built backend projects"),
+    ("bul", "Focused on scalable systems"),
 ]
 
 
