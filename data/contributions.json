@@ -1,17 +1,17 @@
 {
   "username": "Bobur-Boboyev",
-  "generated_at": "2026-07-25T08:23:28Z",
+  "generated_at": "2026-07-26T08:38:33Z",
   "range": {
-    "start": "2025-07-20",
-    "end": "2026-07-25"
+    "start": "2025-07-27",
+    "end": "2026-07-26"
   },
-  "total_contributions": 748,
-  "active_days": 234,
+  "total_contributions": 731,
+  "active_days": 228,
   "avg_per_active_day": 3.2,
   "current_streak": {
-    "length": 5,
+    "length": 6,
     "start": "2026-07-20",
-    "end": "2026-07-24"
+    "end": "2026-07-25"
   },
   "longest_streak": {
     "length": 48,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-07",
-      "total": 36
+      "total": 17
     },
     {
       "month": "2025-08",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-07",
-      "total": 116
+      "total": 118
     }
   ],
   "days": [
-    {
-      "date": "2025-07-20",
-      "count": 6
-    },
-    {
-      "date": "2025-07-21",
-      "count": 2
-    },
-    {
-      "date": "2025-07-22",
-      "count": 3
-    },
-    {
-      "date": "2025-07-23",
-      "count": 1
-    },
-    {
-      "date": "2025-07-24",
-      "count": 2
-    },
-    {
-      "date": "2025-07-25",
-      "count": 3
-    },
-    {
-      "date": "2025-07-26",
-      "count": 2
-    },
     {
       "date": "2025-07-27",
       "count": 11
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-07-25",
+      "count": 2
+    },
+    {
+      "date": "2026-07-26",
       "count": 0
     }
   ]
